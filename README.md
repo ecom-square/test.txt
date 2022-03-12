@@ -1,2 +1,2 @@
-# test.txt
+# test
 This is my first git file
